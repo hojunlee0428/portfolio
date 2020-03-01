@@ -1,0 +1,14 @@
+body {
+    font-family: 'Fredoka One';
+}
+
+header {
+    display: flex;
+    background: lightblue;
+    width: 90%;
+    margin: auto;
+}
+
+nav {
+    
+}
